@@ -1,0 +1,110 @@
+﻿/* Slider CSS */
+.scrollerWrapper
+{
+	/*margin: 0;*/
+	padding: 40px 0 0 0 ;
+	position: relative;
+	top:-40px;
+	margin-left:5px;
+ }
+
+.scrollerScroller
+{
+	margin: 0;
+	padding: 0;
+	position: relative;
+	overflow: hidden;
+}
+.scrollerScroller img
+{
+	margin:0 auto;
+	padding:5px 30px;
+}
+
+.scrollerNext, .scrollerPrev
+{
+	padding: 2px;
+	width: 30px;
+	height: 30px;
+	position: absolute;
+	display: block;
+	cursor: pointer;
+	cursor: hand;
+	top :-19px;
+ 	
+ 
+}
+
+.scrollerNext
+{
+	display: block;
+		background: url(../img/arrow_next.png) no-repeat center center;
+
+}
+
+.scrollerPrev
+{
+	display: block;
+		background: url(../img/arrow_prev.png) no-repeat center center;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ .example1_scrollerButtons.scrollerButtons .scrollerNext, .example1_scrollerButtons.scrollerButtons .scrollerPrev
+{
+	padding: 2px;
+	width: 14px !important;
+	height: 30px;
+	position: absolute;
+	display: block;
+	background: url(../img/arrow_prev.png) no-repeat center center;
+	cursor: pointer;
+	cursor: hand;
+	top :60px;
+ 	
+ 
+}
+
+ .example1_scrollerButtons.scrollerButtons .scrollerNext
+{
+	display: block;
+	background:  url(../img/arrow_next.png) no-repeat center center;
+	right:2px !important;
+}
+
+ .example1_scrollerButtons.scrollerButtons .scrollerPrev
+
+{
+		left:0px !important;
+			background: url(../img/arrow_prev.png) no-repeat center center;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+.itemBackground , .itemLink
+{
+	display: none;
+}
