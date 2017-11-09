@@ -498,7 +498,7 @@ margin: 6px;
 
 .lft_clm{ width:632px; float:left; border-right:1px solid #CCCCCC; padding:0 10px 0 0px; min-height:413px;}
 .rt_clm{ width:236px; float:right;}
-h4.serv{ font-size:18px; font-family: 'continuum_mediumregular'; color:#816c37; float:right; margin-right:175px;}
+h4.serv{ font-size:18px; font-family: 'continuum_mediumregular'; color:#816c37; float:right; margin-right:73px;}
 .part-logo{ margin:10px 0 0 0px; background:url(../images/partner-logos.png) left bottom no-repeat; width:901px; height:100px; text-indent:-999px;}
 ul.service{ margin:0 0 0 -10px; padding:0;}
 ul.service li{ padding:7px 0 7px 5px; margin:0 0 0 0px; border-bottom:1px solid #CCCCCC; list-style:none;}
@@ -558,3 +558,7 @@ table.cont-form tr td{ padding:0 0 3px 0px; margin:0 0 0 0px;}
 
 
 
+.brands_scroller img
+{
+	padding:5px 30px !important;
+}

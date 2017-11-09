@@ -1,0 +1,15 @@
+@media screen and (max-width: 991px) {
+    .container {
+        max-width: 100%;
+    }
+    .img-responsive {
+        max-width: 100%;
+    }
+
+    .nav {
+        display: none;
+    }
+    .menu .span4 {
+        width: 100%
+    }
+}
