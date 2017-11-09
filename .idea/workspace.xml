@@ -2,29 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="370cc7e7-6495-4bde-99b2-2b157cf84eec" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/1.png" afterPath="$PROJECT_DIR$/images/1.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/2.png" afterPath="$PROJECT_DIR$/images/2.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/3.png" afterPath="$PROJECT_DIR$/images/3.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/norden.jpg" afterPath="$PROJECT_DIR$/images/norden.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about_us.html" afterPath="$PROJECT_DIR$/about_us.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/access-control-systems.html" afterPath="$PROJECT_DIR$/access-control-systems.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/brands.html" afterPath="$PROJECT_DIR$/brands.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cctv-installation.html" afterPath="$PROJECT_DIR$/cctv-installation.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contactus.html" afterPath="$PROJECT_DIR$/contactus.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/jQuery.scrollSomething-1.0.0.css" afterPath="$PROJECT_DIR$/css/jQuery.scrollSomething-1.0.0.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style_main.css" afterPath="$PROJECT_DIR$/css/style_main.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/email-hosting.html" afterPath="$PROJECT_DIR$/email-hosting.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/enquiry.html" afterPath="$PROJECT_DIR$/enquiry.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fiber-optic-cabling.html" afterPath="$PROJECT_DIR$/fiber-optic-cabling.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/installation-configuration.html" afterPath="$PROJECT_DIR$/installation-configuration.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/jquery.nivo.slider.js" afterPath="$PROJECT_DIR$/js/jquery.nivo.slider.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/locate.html" afterPath="$PROJECT_DIR$/locate.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partners.html" afterPath="$PROJECT_DIR$/partners.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/services.html" afterPath="$PROJECT_DIR$/services.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/slider/jquery-ui.min.js" afterPath="$PROJECT_DIR$/slider/jquery-ui.min.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/structured-cabling.html" afterPath="$PROJECT_DIR$/structured-cabling.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/supply_installation.html" afterPath="$PROJECT_DIR$/supply_installation.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tele_communication_systems.html" afterPath="$PROJECT_DIR$/tele_communication_systems.html" />
@@ -78,7 +68,7 @@
         <entry file="file://$PROJECT_DIR$/about_us.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="124">
-              <caret line="203" column="102" lean-forward="false" selection-start-line="203" selection-start-column="102" selection-end-line="203" selection-end-column="102" />
+              <caret line="43" column="68" lean-forward="false" selection-start-line="43" selection-start-column="68" selection-end-line="43" selection-end-column="68" />
               <folding />
             </state>
           </provider>
@@ -154,10 +144,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>our bran</find>
-      <find>our brand</find>
-      <find>our brands</find>
-      <find>nstallation and Configuration of Routers and Switches</find>
       <find>myScrollebleItems3</find>
       <find>images/5.png</find>
       <find>images/13.png</find>
@@ -184,6 +170,10 @@
       <find>&lt;a href=&quot;structured-cabling.html&quot;&gt;Structured Cabling for Voice and Data&lt;/a&gt;</find>
       <find>&lt;a href=&quot;structured-cabling.html&quot;&gt;Low current and fire alarm cables&lt;/a&gt;</find>
       <find>&lt;li&gt;&lt;a href=&quot;structured-cabling.html&quot;&gt;Low current and fire alarm cables&lt;/a&gt;&lt;/li&gt;</find>
+      <find>re</find>
+      <find>respon</find>
+      <find>responsive</find>
+      <find>&lt;link rel=&quot;stylesheet&quot; href=&quot;css/responsive.css&quot; type=&quot;text/css&quot; media=&quot;screen&quot; /&gt;</find>
     </findStrings>
     <replaceStrings>
       <replace>2017 Soft Touch Network and Communication LLC</replace>
@@ -212,10 +202,10 @@
       <replace>Surveillance System (CCTV and public address systems)</replace>
       <replace>&lt;h4 class=&quot;serv&quot;&gt;Products we deal with&lt;/h4&gt;</replace>
       <replace>&lt;h2&gt; Our Products&lt;/h2&gt;</replace>
-      <replace />
       <replace>Supply of Indoor and Outdoor Wireless solutions</replace>
       <replace>&lt;a href=&quot;structured-cabling.html&quot;&gt;Structured Cabling for Voice and Data&lt;/a&gt;&lt;a href=&quot;structured-cabling.html&quot;&gt;Low current and fire alarm cables&lt;/a&gt;</replace>
       <replace>&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;structured-cabling.html&quot;&gt;Low current and fire alarm cables&lt;/a&gt;</replace>
+      <replace />
     </replaceStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$</dir>
@@ -251,8 +241,8 @@
         <option value="$PROJECT_DIR$/cctv-installation.html" />
         <option value="$PROJECT_DIR$/structured-cabling.html" />
         <option value="$PROJECT_DIR$/fiber-optic-cabling.html" />
-        <option value="$PROJECT_DIR$/about_us.html" />
         <option value="$PROJECT_DIR$/access-control-systems.html" />
+        <option value="$PROJECT_DIR$/about_us.html" />
       </list>
     </option>
   </component>
@@ -435,20 +425,21 @@
       <workItem from="1509336886008" duration="2933000" />
       <workItem from="1509340583731" duration="573000" />
       <workItem from="1509856247755" duration="1961000" />
-      <workItem from="1510253482409" duration="5824000" />
+      <workItem from="1510253482409" duration="6182000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12177000" />
+    <option name="totallyTimeSpent" value="12535000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="722" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2494043" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32698414" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32698414" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -818,7 +809,7 @@
     <entry file="file://$PROJECT_DIR$/about_us.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="124">
-          <caret line="203" column="102" lean-forward="false" selection-start-line="203" selection-start-column="102" selection-end-line="203" selection-end-column="102" />
+          <caret line="43" column="68" lean-forward="false" selection-start-line="43" selection-start-column="68" selection-end-line="43" selection-end-column="68" />
           <folding />
         </state>
       </provider>
