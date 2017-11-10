@@ -56,9 +56,10 @@ img
 .nav li  a
 {
 	display:inline-block;
-	padding:27px 15px;
+	padding:37px 15px;
 	font-family: 'continuum_mediumregular';
 	color:#FFFFFF;
+	font-size: 15px;
 
 
 }
@@ -561,4 +562,8 @@ table.cont-form tr td{ padding:0 0 3px 0px; margin:0 0 0 0px;}
 .brands_scroller img
 {
 	padding:5px 30px !important;
+}
+
+.main-logo {
+	height:95px;
 }

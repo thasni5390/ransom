@@ -2,11 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="370cc7e7-6495-4bde-99b2-2b157cf84eec" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/header_bg.jpg" afterPath="$PROJECT_DIR$/images/header_bg.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/logo.png" afterPath="$PROJECT_DIR$/images/logo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about_us.html" afterPath="$PROJECT_DIR$/about_us.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/access-control-systems.html" afterPath="$PROJECT_DIR$/access-control-systems.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/brands.html" afterPath="$PROJECT_DIR$/brands.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cctv-installation.html" afterPath="$PROJECT_DIR$/cctv-installation.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contactus.html" afterPath="$PROJECT_DIR$/contactus.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style_main.css" afterPath="$PROJECT_DIR$/css/style_main.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/email-hosting.html" afterPath="$PROJECT_DIR$/email-hosting.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/enquiry.html" afterPath="$PROJECT_DIR$/enquiry.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fiber-optic-cabling.html" afterPath="$PROJECT_DIR$/fiber-optic-cabling.html" />
@@ -34,6 +38,103 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="290">
+              <caret line="193" column="24" lean-forward="true" selection-start-line="193" selection-start-column="24" selection-end-line="193" selection-end-column="24" />
+              <folding>
+                <marker date="1510338081000" expanded="true" signature="9211:14674" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="fiber-optic-cabling.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fiber-optic-cabling.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="184">
+              <caret line="182" column="36" lean-forward="true" selection-start-line="182" selection-start-column="36" selection-end-line="182" selection-end-column="36" />
+              <folding>
+                <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="structured-cabling.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/structured-cabling.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="233" column="46" lean-forward="false" selection-start-line="233" selection-start-column="36" selection-end-line="233" selection-end-column="46" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="low-current-cables.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/low-current-cables.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="274">
+              <caret line="193" column="102" lean-forward="false" selection-start-line="193" selection-start-column="80" selection-end-line="193" selection-end-column="102" />
+              <folding>
+                <element signature="n#style#0;n#p#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="about_us.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/about_us.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="173">
+              <caret line="224" column="32" lean-forward="false" selection-start-line="224" selection-start-column="32" selection-end-line="224" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="contactus.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/contactus.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="245">
+              <caret line="398" column="32" lean-forward="false" selection-start-line="398" selection-start-column="32" selection-end-line="398" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="email-hosting.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/email-hosting.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="266" column="70" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="363" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="enquiry.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/enquiry.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1280">
+              <caret line="406" column="105" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="758" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cctv-installation.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cctv-installation.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="215">
+              <caret line="215" column="117" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="326" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="partners.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/partners.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -44,141 +145,49 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="brands.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/brands.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="197" column="28" lean-forward="true" selection-start-line="197" selection-start-column="28" selection-end-line="197" selection-end-column="28" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="services.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/services.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="223" column="236" lean-forward="false" selection-start-line="223" selection-start-column="236" selection-end-line="223" selection-end-column="236" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="about_us.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/about_us.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="124">
-              <caret line="43" column="68" lean-forward="false" selection-start-line="43" selection-start-column="68" selection-end-line="43" selection-end-column="68" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="supply_installation.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/supply_installation.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="214">
-              <caret line="196" column="0" lean-forward="true" selection-start-line="196" selection-start-column="0" selection-end-line="196" selection-end-column="0" />
-              <folding>
-                <element signature="n#style#0;n#p#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#p#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="access-control-systems.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/access-control-systems.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="124">
-              <caret line="201" column="182" lean-forward="false" selection-start-line="201" selection-start-column="102" selection-end-line="201" selection-end-column="182" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="wireless-solutions.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wireless-solutions.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="177" column="27" lean-forward="false" selection-start-line="177" selection-start-column="27" selection-end-line="177" selection-end-column="27" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="cctv-installation.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cctv-installation.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="215">
-              <caret line="191" column="81" lean-forward="false" selection-start-line="191" selection-start-column="81" selection-end-line="191" selection-end-column="81" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="structured-cabling.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/structured-cabling.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="189" column="76" lean-forward="false" selection-start-line="189" selection-start-column="76" selection-end-line="189" selection-end-column="76" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="fiber-optic-cabling.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/fiber-optic-cabling.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="182" column="381" lean-forward="false" selection-start-line="182" selection-start-column="381" selection-end-line="182" selection-end-column="381" />
-              <folding>
-                <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>myScrollebleItems3</find>
-      <find>images/5.png</find>
-      <find>images/13.png</find>
-      <find>&lt;div&gt; &lt;img class=&quot;img-responsive&quot;  src=&quot;images/5.png&quot; &gt; &lt;/div&gt;</find>
-      <find>&lt;div&gt; &lt;img class=&quot;img-responsive&quot;  src=&quot;images/.png&quot; &gt; &lt;/div&gt;</find>
-      <find>&lt;div&gt; &lt;img class=&quot;img-responsive&quot;  src=&quot;images/6.png&quot; &gt; &lt;/div&gt;</find>
-      <find>images/norden.jpg</find>
-      <find>partners_logodiv</find>
-      <find>src=&quot;images/samsung.jpg&quot;</find>
-      <find>Our services includes IT equipments (Sales, Installation, Maintenance and Service), IT infrastructure design and implementation.</find>
-      <find>Security Equipments (CCTV, Access Control, Biometric)</find>
-      <find>Installation and Configuration of Routers and Switches</find>
-      <find>&lt;li&gt;&lt;a href=&quot;installation-configuration.html&quot;&gt;Installation and Configuration of Routers and Switches&lt;/a&gt;&lt;/li&gt;</find>
-      <find>Our services includes IT equipments (Sales, Installation, Maintenance and Service), IT infrastructure design and implementatio</find>
-      <find />
-      <find>Supply and Installation, Indoor and Outdoor Wireless services</find>
-      <find>Supply and Installation, Indoor and Outdoor Wireless services</find>
-      <find>Supply and Deployment, CCTV camera and security systems</find>
-      <find>Supply and Installation of Copper cabling systems such as Cat3, Cat6, Cat6a, Cat7, for indoor and outdoor</find>
-      <find>nstallation and maintenance and training programs.</find>
-      <find>and network services that include network design, project management, installation and maintenance and training programs</find>
-      <find>and network services that include network design, project management, installation and maintenance and training progra</find>
-      <find>Products we deal with</find>
       <find>&lt;a href=&quot;structured-cabling.html&quot;&gt;Structured Cabling for Voice and Data&lt;/a&gt;</find>
       <find>&lt;a href=&quot;structured-cabling.html&quot;&gt;Low current and fire alarm cables&lt;/a&gt;</find>
-      <find>&lt;li&gt;&lt;a href=&quot;structured-cabling.html&quot;&gt;Low current and fire alarm cables&lt;/a&gt;&lt;/li&gt;</find>
       <find>re</find>
       <find>respon</find>
       <find>responsive</find>
       <find>&lt;link rel=&quot;stylesheet&quot; href=&quot;css/responsive.css&quot; type=&quot;text/css&quot; media=&quot;screen&quot; /&gt;</find>
+      <find>Our Services</find>
+      <find>images/logo.png</find>
+      <find>&lt;a href=&quot;index.html&quot;&gt;&lt;img class=&quot;main-logo img-responsive&quot;  src=&quot;images/logo.png&quot; width=&quot;313&quot; height=&quot;76&quot;</find>
+      <find>&lt;a href=&quot;index.html&quot;&gt;&lt;img class=&quot;main-logoimg-responsive&quot;  src=&quot;images/logo.png&quot; width=&quot;313&quot; height=&quot;76&quot;</find>
+      <find>&lt;a href=&quot;index.html&quot;&gt;&lt;img class=&quot;main-logimg-responsive&quot;  src=&quot;images/logo.png&quot; width=&quot;313&quot; height=&quot;76&quot;</find>
+      <find>&lt;a href=&quot;index.html&quot;&gt;&lt;img class=&quot;main-loimg-responsive&quot;  src=&quot;images/logo.png&quot; width=&quot;313&quot; height=&quot;76&quot;</find>
+      <find>&lt;a href=&quot;index.html&quot;&gt;&lt;img class=&quot;main-limg-responsive&quot;  src=&quot;images/logo.png&quot; width=&quot;313&quot; height=&quot;76&quot;</find>
+      <find>&lt;a href=&quot;index.html&quot;&gt;&lt;img class=&quot;main-img-responsive&quot;  src=&quot;images/logo.png&quot; width=&quot;313&quot; height=&quot;76&quot;</find>
+      <find>&lt;a href=&quot;index.html&quot;&gt;&lt;img class=&quot;mainimg-responsive&quot;  src=&quot;images/logo.png&quot; width=&quot;313&quot; height=&quot;76&quot;</find>
+      <find>&lt;a href=&quot;index.html&quot;&gt;&lt;img class=&quot;maiimg-responsive&quot;  src=&quot;images/logo.png&quot; width=&quot;313&quot; height=&quot;76&quot;</find>
+      <find>&lt;a href=&quot;index.html&quot;&gt;&lt;img class=&quot;maimg-responsive&quot;  src=&quot;images/logo.png&quot; width=&quot;313&quot; height=&quot;76&quot;</find>
+      <find>&lt;a href=&quot;index.html&quot;&gt;&lt;img class=&quot;mimg-responsive&quot;  src=&quot;images/logo.png&quot; width=&quot;313&quot; height=&quot;76&quot;</find>
+      <find>&lt;a href=&quot;index.html&quot;&gt;&lt;img class=&quot;img-responsive&quot;  src=&quot;images/logo.png&quot; width=&quot;313&quot; height=&quot;76&quot;</find>
+      <find>Welcome to Ransom Mary Limited</find>
+      <find>.nav li a {</find>
+      <find>.nav li a</find>
+      <find>.nav li a</find>
+      <find>&lt;img class=&quot;img-responsive&quot; src=&quot;images/vpnsolution-and-firewall-0.jpg&quot; width=&quot;100&quot; height=&quot;100&quot; align=&quot;left&quot;&gt;</find>
+      <find>.nav li  a</find>
+      <find>src=&quot;images/vpnsolution-and-firewall-0.jpg&quot; width=&quot;100&quot; height=&quot;100&quot; align=&quot;left&quot;&gt;</find>
+      <find>Low current and fire alarm cables</find>
+      <find>&lt;li&gt;&lt;a href=&quot;structured-cabling.html&quot;&gt;Low current and fire alarm cables&lt;/a&gt;&lt;/li&gt;</find>
+      <find>low</find>
+      <find>low c</find>
     </findStrings>
     <replaceStrings>
-      <replace>2017 Soft Touch Network and Communication LLC</replace>
-      <replace>2017 Soft Touch Network and Communication LLC 2013 Ransom Mary Limited</replace>
-      <replace>2017 Ransom Mary Limited</replace>
       <replace>info@ransommary.co.uk</replace>
       <replace>Ransom</replace>
       <replace>Ransom Mary Limited</replace>
@@ -206,6 +215,9 @@
       <replace>&lt;a href=&quot;structured-cabling.html&quot;&gt;Structured Cabling for Voice and Data&lt;/a&gt;&lt;a href=&quot;structured-cabling.html&quot;&gt;Low current and fire alarm cables&lt;/a&gt;</replace>
       <replace>&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;structured-cabling.html&quot;&gt;Low current and fire alarm cables&lt;/a&gt;</replace>
       <replace />
+      <replace>&lt;a href=&quot;index.html&quot;&gt;&lt;img class=&quot;img-responsive&quot;  src=&quot;images/logo.png&quot; width=&quot;313&quot; height=&quot;95&quot;</replace>
+      <replace>&lt;a href=&quot;index.html&quot;&gt;&lt;img class=&quot;main-logo img-responsive&quot;  src=&quot;images/logo.png&quot; width=&quot;313&quot; height=&quot;95&quot;</replace>
+      <replace>&lt;li&gt;&lt;a href=&quot;low-current-cables.html&quot;&gt;Low current and fire alarm cables&lt;/a&gt;&lt;/li&gt;</replace>
     </replaceStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$</dir>
@@ -226,23 +238,24 @@
         <option value="$PROJECT_DIR$/locate.html" />
         <option value="$PROJECT_DIR$/css/flexslider.css" />
         <option value="$PROJECT_DIR$/css/responsive.css" />
-        <option value="$PROJECT_DIR$/email-hosting.html" />
-        <option value="$PROJECT_DIR$/contactus.html" />
-        <option value="$PROJECT_DIR$/enquiry.html" />
         <option value="$PROJECT_DIR$/css/jQuery.scrollSomething-1.0.0.css" />
         <option value="$PROJECT_DIR$/css/style.css" />
-        <option value="$PROJECT_DIR$/css/style_main.css" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/partners.html" />
-        <option value="$PROJECT_DIR$/brands.html" />
-        <option value="$PROJECT_DIR$/services.html" />
         <option value="$PROJECT_DIR$/supply_installation.html" />
         <option value="$PROJECT_DIR$/wireless-solutions.html" />
-        <option value="$PROJECT_DIR$/cctv-installation.html" />
         <option value="$PROJECT_DIR$/structured-cabling.html" />
         <option value="$PROJECT_DIR$/fiber-optic-cabling.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/style_main.css" />
+        <option value="$PROJECT_DIR$/services.html" />
         <option value="$PROJECT_DIR$/access-control-systems.html" />
+        <option value="$PROJECT_DIR$/brands.html" />
+        <option value="$PROJECT_DIR$/cctv-installation.html" />
+        <option value="$PROJECT_DIR$/contactus.html" />
+        <option value="$PROJECT_DIR$/email-hosting.html" />
+        <option value="$PROJECT_DIR$/enquiry.html" />
         <option value="$PROJECT_DIR$/about_us.html" />
+        <option value="$PROJECT_DIR$/low-current-cables.html" />
       </list>
     </option>
   </component>
@@ -300,20 +313,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ransom" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ransom" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -325,6 +324,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -425,12 +425,12 @@
       <workItem from="1509336886008" duration="2933000" />
       <workItem from="1509340583731" duration="573000" />
       <workItem from="1509856247755" duration="1961000" />
-      <workItem from="1510253482409" duration="6182000" />
+      <workItem from="1510253482409" duration="10278000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12535000" />
+    <option name="totallyTimeSpent" value="16631000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="722" extended-state="6" />
@@ -465,14 +465,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/tele_communication_systems.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3855">
-          <caret line="258" column="27" lean-forward="false" selection-start-line="258" selection-start-column="27" selection-end-line="258" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/about_us.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3990">
@@ -572,30 +564,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/email-hosting.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="232" column="56" lean-forward="false" selection-start-line="232" selection-start-column="56" selection-end-line="232" selection-end-column="56" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/contactus.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="245">
-          <caret line="445" column="109" lean-forward="false" selection-start-line="445" selection-start-column="109" selection-end-line="445" selection-end-column="109" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/enquiry.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="124">
-          <caret line="445" column="579" lean-forward="false" selection-start-line="445" selection-start-column="579" selection-end-line="445" selection-end-column="579" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/jQuery.scrollSomething-1.0.0.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
@@ -608,14 +576,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="518">
           <caret line="96" column="0" lean-forward="false" selection-start-line="96" selection-start-column="0" selection-end-line="96" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/style_main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="488">
-          <caret line="560" column="17" lean-forward="false" selection-start-line="560" selection-start-column="17" selection-end-line="560" selection-end-column="17" />
           <folding />
         </state>
       </provider>
@@ -720,10 +680,85 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/supply_installation.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="335">
-          <caret line="269" column="0" lean-forward="false" selection-start-line="269" selection-start-column="0" selection-end-line="269" selection-end-column="0" />
+        <state relative-caret-position="214">
+          <caret line="196" column="0" lean-forward="true" selection-start-line="196" selection-start-column="0" selection-end-line="196" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#p#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#p#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wireless-solutions.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="110" column="131" lean-forward="false" selection-start-line="110" selection-start-column="26" selection-end-line="110" selection-end-column="131" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style_main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="69" column="1" lean-forward="true" selection-start-line="69" selection-start-column="1" selection-end-line="69" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/services.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="258" column="0" lean-forward="false" selection-start-line="258" selection-start-column="0" selection-end-line="258" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/access-control-systems.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="221" column="112" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="316" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/brands.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3090">
+          <caret line="206" column="60" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="318" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cctv-installation.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="215" column="117" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="326" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contactus.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="398" column="32" lean-forward="false" selection-start-line="398" selection-start-column="32" selection-end-line="398" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/email-hosting.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="266" column="70" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="363" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/enquiry.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1280">
+          <caret line="406" column="105" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="758" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -736,53 +771,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/brands.html">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="197" column="28" lean-forward="true" selection-start-line="197" selection-start-column="28" selection-end-line="197" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/services.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="223" column="236" lean-forward="false" selection-start-line="223" selection-start-column="236" selection-end-line="223" selection-end-column="236" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/supply_installation.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="214">
-          <caret line="196" column="0" lean-forward="true" selection-start-line="196" selection-start-column="0" selection-end-line="196" selection-end-column="0" />
+        <state relative-caret-position="290">
+          <caret line="193" column="24" lean-forward="true" selection-start-line="193" selection-start-column="24" selection-end-line="193" selection-end-column="24" />
           <folding>
-            <element signature="n#style#0;n#p#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#p#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1510338081000" expanded="true" signature="9211:14674" ph="..." />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cctv-installation.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
-          <caret line="191" column="81" lean-forward="false" selection-start-line="191" selection-start-column="81" selection-end-line="191" selection-end-column="81" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/structured-cabling.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="189" column="76" lean-forward="false" selection-start-line="189" selection-start-column="76" selection-end-line="189" selection-end-column="76" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/fiber-optic-cabling.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
-          <caret line="182" column="381" lean-forward="false" selection-start-line="182" selection-start-column="381" selection-end-line="182" selection-end-column="381" />
+          <caret line="182" column="36" lean-forward="true" selection-start-line="182" selection-start-column="36" selection-end-line="182" selection-end-column="36" />
           <folding>
             <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -790,27 +792,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wireless-solutions.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="177" column="27" lean-forward="false" selection-start-line="177" selection-start-column="27" selection-end-line="177" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/access-control-systems.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="124">
-          <caret line="201" column="182" lean-forward="false" selection-start-line="201" selection-start-column="102" selection-end-line="201" selection-end-column="182" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/about_us.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="124">
-          <caret line="43" column="68" lean-forward="false" selection-start-line="43" selection-start-column="68" selection-end-line="43" selection-end-column="68" />
+        <state relative-caret-position="173">
+          <caret line="224" column="32" lean-forward="false" selection-start-line="224" selection-start-column="32" selection-end-line="224" selection-end-column="32" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/structured-cabling.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="233" column="46" lean-forward="false" selection-start-line="233" selection-start-column="36" selection-end-line="233" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/low-current-cables.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="193" column="102" lean-forward="false" selection-start-line="193" selection-start-column="80" selection-end-line="193" selection-end-column="102" />
+          <folding>
+            <element signature="n#style#0;n#p#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -1,17 +1,16 @@
-
 <!DOCTYPE html>
 
 <html>
 
-    <head>
+<head>
 
     <title>Ransom Mary Limited</title>
 
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <meta http-equiv="X-UA-Compatible" content="IE=8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=8"/>
 
-    <link rel="stylesheet" href="font/stylesheet.css" type="text/css" charset="utf-8" />
+    <link rel="stylesheet" href="font/stylesheet.css" type="text/css" charset="utf-8"/>
 
     <!-- Sliders -->
 
@@ -63,13 +62,13 @@ $(document).ready(function(){
 
 </script>-->
 
-    <link rel="stylesheet" href="css/flexslider.css" type="text/css" media="screen" />
+    <link rel="stylesheet" href="css/flexslider.css" type="text/css" media="screen"/>
 
-    <link rel="stylesheet" href="themes/default/default.css" type="text/css" media="screen" />
+    <link rel="stylesheet" href="themes/default/default.css" type="text/css" media="screen"/>
 
-    <link rel="stylesheet" href="css/nivo-slider.css" type="text/css" media="screen" />
+    <link rel="stylesheet" href="css/nivo-slider.css" type="text/css" media="screen"/>
 
-    <link rel="stylesheet" href="css/style.css" type="text/css" media="screen" />
+    <link rel="stylesheet" href="css/style.css" type="text/css" media="screen"/>
 
     <script type="text/javascript" src="js/jquery-1.9.0.min.js"></script>
 
@@ -77,185 +76,142 @@ $(document).ready(function(){
 
     <script type="text/javascript">
 
-    $(window).load(function() {
+        $(window).load(function () {
 
-        $('#slider').nivoSlider();
+            $('#slider').nivoSlider();
 
-    });
+        });
 
     </script>
 
-      <script type="text/javascript">
+    <script type="text/javascript">
 
-function validate()
+        function validate() {
 
-{
 
-	
+            var missinginfo;
 
-	
+            missinginfo = "";
 
-	var missinginfo;
+            var re5digit = /^[0-9a-zA-Z]+$/;
 
-	missinginfo = "";
+            var digit = /^[0-9]+$/;
 
-	var re5digit=/^[0-9a-zA-Z]+$/;
 
-	var digit=/^[0-9]+$/;
+            if (document.getElementById("Name").value == "") {
 
-	
 
-	
+                missinginfo += "\n     - Name";
 
-	 if(document.getElementById("Name").value=="")
+            }
 
-	{
 
-		
+            if (document.getElementById("Email").value == "") {
 
-		missinginfo += "\n     - Name";
+                missinginfo += "\n     - Email ";
 
-	}
+            }
 
-	
 
+            if (document.getElementById("Subject").value == "") {
 
 
-	
+                missinginfo += "\n     - Subject ";
 
-	 if(document.getElementById("Email").value=="")
+            }
 
-	{
 
-				missinginfo += "\n     - Email ";
+            if (document.getElementById("Message").value == "") {
 
-	}
 
-	
+                missinginfo += "\n     - Message ";
 
-	
+            }
 
+            if (document.getElementById("Email").value != "") {
 
+                var emailcheck_mem = emailvalidation(document.getElementById("Email").value);
 
-  	 if(document.getElementById("Subject").value=="")
+                if (emailcheck_mem == false) {
 
-	{
+                    missinginfo += "\n - Valid email Id";
 
-		
 
-		missinginfo += "\n     - Subject ";
+                }
 
-	}
+            }
 
-	
 
-		if(document.getElementById("Message").value=="") 
+            if (missinginfo != "") {
 
-	{
+                missinginfo = "_____________________________\n" + "You failed to correctly fill in your:\n" + missinginfo + "\n_____________________________" + "\nPlease re-enter and submit again!";
 
-		
+                alert(missinginfo);
 
-		missinginfo += "\n     - Message ";
+                return false;
 
-	}
+            }
 
-	if(document.getElementById("Email").value!="")
+            else {
 
-{
+                return true;
 
-var emailcheck_mem = emailvalidation(document.getElementById("Email").value);
+            }
 
-if(emailcheck_mem==false)
 
-{
+        }
 
-missinginfo += "\n - Valid email Id";
+        function emailvalidation(em) //Email validation
 
+        {
 
+            if (/^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,4})+$/.test(em))
 
-}
+                return true
 
-}
+            else
 
-	
+                return false
 
-  	
+        }
 
-	if (missinginfo != "")
 
-	{
-
-		missinginfo ="_____________________________\n" + "You failed to correctly fill in your:\n" + missinginfo + "\n_____________________________" + "\nPlease re-enter and submit again!";
-
-		alert(missinginfo);
-
-		return false;
-
-	}
-
-	else
-
-	{
-
-		return true;
-
-	}
-
-	
-
-
-
-}
-
-function emailvalidation(em) //Email validation
-
-{
-
-if (/^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,4})+$/.test(em))
-
-return true
-
-else
-
-return false
-
-}
-
-
-
- </script>
+    </script>
 
     <link href="css/style_main.css" rel="stylesheet" media="screen">
 
     <link rel="shortcut icon" type="image/x-icon" href="images/fav.ico">
 
-    </head>
+</head>
 
 <body>
 
 <div class="float_right_div">
 
-  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <table width="100%" border="0" cellspacing="0" cellpadding="0">
 
-    <tr>
+        <tr>
 
-      <td valign="middle"><a href="contactus.html#"><img class="img-responsive"  src="images/tw.jpg" height="37" border="0" width="67"></a></td>
+            <td valign="middle"><a href="contactus.html#"><img class="img-responsive" src="images/tw.jpg" height="37"
+                                                               border="0" width="67"></a></td>
 
-    </tr>
+        </tr>
 
-    <tr>
+        <tr>
 
-      <td valign="middle"><a href="contactus.html#"><img class="img-responsive"  src="images/fb.jpg" height="37" border="0" width="32"></a></td>
+            <td valign="middle"><a href="contactus.html#"><img class="img-responsive" src="images/fb.jpg" height="37"
+                                                               border="0" width="32"></a></td>
 
-    </tr>
+        </tr>
 
-    <tr>
+        <tr>
 
-      <td valign="middle"><a href="contactus.html#"><img class="img-responsive"  src="images/in.jpg" height="37" border="0" width="32"></a></td>
+            <td valign="middle"><a href="contactus.html#"><img class="img-responsive" src="images/in.jpg" height="37"
+                                                               border="0" width="32"></a></td>
 
-    </tr>
+        </tr>
 
-  </table>
+    </table>
 
 </div>
 
@@ -353,272 +309,249 @@ return false
 
 -->
 
-<div class="container" >
+<div class="container">
 
-  <div class="masthead">
+    <div class="masthead">
 
-    <div class="menu">
+        <div class="menu">
 
-      <div class="span4"> <a href="index.html"><img class="img-responsive"  src="images/logo.png" width="313" height="76" border="0"></a> </div>
+            <div class="span4"><a href="index.html"><img class="main-logo img-responsive" src="images/logo.png"
+                                                         width="313" height="95" border="0"></a></div>
 
-      <div class="span8">
+            <div class="span8">
 
-        <div class="navbar navbar-inverse">
+                <div class="navbar navbar-inverse">
 
-          <div class="navbar-inner">
+                    <div class="navbar-inner">
 
-            <div class="container-fluid"> <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse"> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </a>
+                        <div class="container-fluid"><a class="btn btn-navbar" data-toggle="collapse"
+                                                        data-target=".nav-collapse"> <span class="icon-bar"></span>
+                            <span class="icon-bar"></span> <span class="icon-bar"></span> </a>
 
-              <div class="nav-collapse collapse">
+                            <div class="nav-collapse collapse">
 
-                <ul class="nav">
+                                <ul class="nav">
 
-                  <li><a href="index.html"> Home</a></li>
+                                    <li><a href="index.html"> Home</a></li>
 
-                  <li><a href="about_us.html">About Us</a></li>
+                                    <li><a href="about_us.html">About Us</a></li>
 
-                  <li><a href="services.html">Our Products</a></li>
+                                    <li><a href="services.html">Our Products</a></li>
 
-                  <li><a href="brands.html">Brands</a></li>
+                                    <li><a href="brands.html">Brands</a></li>
 
-                  <li><a href="enquiry.html">Enquiry</a></li>
+                                    <li><a href="enquiry.html">Enquiry</a></li>
 
-                  <li><a href="contactus.html" class="active">Contact</a></li>
+                                    <li><a href="contactus.html" class="active">Contact</a></li>
 
-                </ul>
+                                </ul>
 
-              </div>
+                            </div>
 
-              <!-- /.nav-collapse -->
+                            <!-- /.nav-collapse -->
+
+                        </div>
+
+                        <!-- /.container -->
+
+                    </div>
+
+                    <!-- /.navbar-inner -->
+
+                </div>
 
             </div>
 
-            <!-- /.container -->
-
-          </div>
-
-          <!-- /.navbar-inner -->
+            <!-- /.navbar -->
 
         </div>
 
-      </div>
-
-      <!-- /.navbar -->
+        <!-- /.navbar -->
 
     </div>
 
-    <!-- /.navbar -->
+    <!-- Jumbotron -->
 
-  </div>
+    <div class="jumbotron">
 
-  <!-- Jumbotron -->
+        <div id="wrapper">
 
-  <div class="jumbotron">
-
-    <div id="wrapper">
-
-          <div class="slider-wrapper theme-default" >
-
-          
-
-          
-
-        <div id="slider" class="nivoSlider" >
-
-        
-
-         <img class="img-responsive"  src="images/structured-cabling-solutions.jpg" data-thumb="images/toystory.jpg" alt=""title="Structured cabling solutions and low current cables"  />
-
-         
-
-          <img class="img-responsive"  src="images/banner2.png" data-thumb="images/up.jpg" alt="" title="Wireless Solutions" />
-
-          
+            <div class="slider-wrapper theme-default">
 
 
+                <div id="slider" class="nivoSlider">
 
-           
 
-          <img class="img-responsive"  src="images/emailandwebsolutions.jpg" data-thumb="images/nemo.jpg" alt="" title="Email and Web Solutions" />
+                    <img class="img-responsive" src="images/structured-cabling-solutions.jpg"
+                         data-thumb="images/toystory.jpg" alt=""
+                         title="Structured cabling solutions and low current cables"/>
 
-          
 
-           <img class="img-responsive"  src="images/cctv2fff.jpg" data-thumb="images/nemo.jpg" alt="" title="CCTV and public address systems " />
+                    <img class="img-responsive" src="images/banner2.png" data-thumb="images/up.jpg" alt=""
+                         title="Wireless Solutions"/>
 
-           
 
-           <img class="img-responsive"  src="images/desktop-and-server-installations-and-support.jpg" data-thumb="images/nemo.jpg" alt="" title="Desktops, Laptops and Servers" />
+                    <img class="img-responsive" src="images/emailandwebsolutions.jpg" data-thumb="images/nemo.jpg"
+                         alt="" title="Email and Web Solutions"/>
 
-          
 
-          </div>
+                    <img class="img-responsive" src="images/cctv2fff.jpg" data-thumb="images/nemo.jpg" alt=""
+                         title="CCTV and public address systems "/>
 
-          
 
-        <div id="htmlcaption" class="nivo-html-caption"> 
+                    <img class="img-responsive" src="images/desktop-and-server-installations-and-support.jpg"
+                         data-thumb="images/nemo.jpg" alt="" title="Desktops, Laptops and Servers"/>
 
-        
 
-        <strong>This</strong> is an example of a <em>HTML</em> caption with <a href="contactus.html#">a link</a>. </div>
+                </div>
 
-        
 
-        
+                <div id="htmlcaption" class="nivo-html-caption">
 
-        
 
-      </div>
+                    <strong>This</strong> is an example of a <em>HTML</em> caption with <a href="contactus.html#">a
+                    link</a>.
+                </div>
 
-        </div>
-
-  </div>
-
-  <!-- Example row of columns -->
-
-  <div class="row-fluid">
-
-    <div class="span12">
-
-      <div class="row-fluid ">
-
-        <div class="span12 border_left inner">
-
-        	<h1>Contact Us</h1>
-
-             
-			<div class="inner_box_content_right1">
-
-  
-
- <h3 class="news" style="font-size:25px!important; padding-bottom:7px;">Hello</h3>
-
- <p style="text-align:justify; padding-top:7px;"> We love to hear from our customers 
-
-                                so please don't hesitate to get in
-
-                                touch. We promise to respond within
-
-                                12 hours of receiving your message.</p>
 
             </div>
 
-			<div class="inner_box_content_right contact">
-
-            <form method="post" action="contactus.html" enctype="multipart/form-data">
-
-            <table width="100%" border="0" cellspacing="0" cellpadding="0" class="cont-form">
-
-  <tr>
-
-    <td>Name<span style=" color:#F00">*</span></td>
-
-  </tr>
-
-  <tr>
-
-    <td><input name="Name" id="Name" type="text" class="fild"></td>
-
-  </tr>
-
-  <tr>
-
-    <td>Email<span style=" color:#F00">*</span></td>
-
-  </tr>
-
-  <tr>
-
-    <td><input name="Email" id="Email" type="text" class="fild"></td>
-
-  </tr>
-
-  <tr>
-
-    <td>Subject<span style=" color:#F00">*</span></td>
-
-  </tr>
-
-  <tr>
-
-    <td><input name="Subject" id="Subject" type="text" class="fild"></td>
-
-  </tr>
-
-  <tr>
-
-    <td>Message<span style=" color:#F00">*</span></td>
-
-  </tr>
-
-  <tr>
-
-    <td><textarea name="Message" id="Message" cols="" rows="" class="textarea"></textarea></td>
-
-  </tr>
-
-  <tr><td><input name="image" type="image" src="images/send-message.jpg" onclick="return validate();"/></td></tr>
-
-</table>
-
-</form>
-
-
-
-  
-
- 
-
-          </div>
-
-			<div class="inner_box_content_right2">
-
-  
-
- <h3 class="news" style="padding-bottom:7px;">Official Address</h3>
-
- <ul class="fr_cont" style="padding-top:7px;">
-
-        <li>Ransom Mary Limited
-            Unit  G-19
-            Barking Enterprise Centre
-            50 Wakering Road
-            London IG11 8GN</li>
-
-        <li class="phne-icon">Tel: +44 7863827951</li>
-
-        <!--<li class="fax-icon">Fax: 02 6812045</li>-->
-
-        <li class="mail-icon">Email: <a href="mailto:info@ransommary.co.uk">info@ransommary.co.uk</a></li>
-
-      </ul>
-
-
-
- <br />
-
- 
-
-
-
-
-
-
-
-
-
-  
-
-  </div>
-
-
-
         </div>
-
-      </div>
 
     </div>
 
-  </div>
+    <!-- Example row of columns -->
+
+    <div class="row-fluid">
+
+        <div class="span12">
+
+            <div class="row-fluid ">
+
+                <div class="span12 border_left inner">
+
+                    <h1>Contact Us</h1>
+
+
+                    <div class="inner_box_content_right1">
+
+
+                        <h3 class="news" style="font-size:25px!important; padding-bottom:7px;">Hello</h3>
+
+                        <p style="text-align:justify; padding-top:7px;"> We love to hear from our customers
+
+                            so please don't hesitate to get in
+
+                            touch. We promise to respond within
+
+                            12 hours of receiving your message.</p>
+
+                    </div>
+
+                    <div class="inner_box_content_right contact">
+
+                        <form method="post" action="contactus.html" enctype="multipart/form-data">
+
+                            <table width="100%" border="0" cellspacing="0" cellpadding="0" class="cont-form">
+
+                                <tr>
+
+                                    <td>Name<span style=" color:#F00">*</span></td>
+
+                                </tr>
+
+                                <tr>
+
+                                    <td><input name="Name" id="Name" type="text" class="fild"></td>
+
+                                </tr>
+
+                                <tr>
+
+                                    <td>Email<span style=" color:#F00">*</span></td>
+
+                                </tr>
+
+                                <tr>
+
+                                    <td><input name="Email" id="Email" type="text" class="fild"></td>
+
+                                </tr>
+
+                                <tr>
+
+                                    <td>Subject<span style=" color:#F00">*</span></td>
+
+                                </tr>
+
+                                <tr>
+
+                                    <td><input name="Subject" id="Subject" type="text" class="fild"></td>
+
+                                </tr>
+
+                                <tr>
+
+                                    <td>Message<span style=" color:#F00">*</span></td>
+
+                                </tr>
+
+                                <tr>
+
+                                    <td><textarea name="Message" id="Message" cols="" rows=""
+                                                  class="textarea"></textarea></td>
+
+                                </tr>
+
+                                <tr>
+                                    <td><input name="image" type="image" src="images/send-message.jpg"
+                                               onclick="return validate();"/></td>
+                                </tr>
+
+                            </table>
+
+                        </form>
+
+
+                    </div>
+
+                    <div class="inner_box_content_right2">
+
+
+                        <h3 class="news" style="padding-bottom:7px;">Official Address</h3>
+
+                        <ul class="fr_cont" style="padding-top:7px;">
+
+                            <li>Ransom Mary Limited
+                                Unit G-19
+                                Barking Enterprise Centre
+                                50 Wakering Road
+                                London IG11 8GN
+                            </li>
+
+                            <li class="phne-icon">Tel: +44 7863827951</li>
+
+                            <!--<li class="fax-icon">Fax: 02 6812045</li>-->
+
+                            <li class="mail-icon">Email: <a
+                                    href="mailto:info@ransommary.co.uk">info@ransommary.co.uk</a></li>
+
+                        </ul>
+
+
+                        <br/>
+
+
+                    </div>
+
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
 
 </div>
 
@@ -626,79 +559,77 @@ return false
 
 <div class="footer">
 
-  <div class="row-fluid" style="width:938px;
+    <div class="row-fluid" style="width:938px;
 
                         margin: 0 auto;  text-align:left; color:#fff;">
 
-    <div class="span_footer" style="margin-right:25px!important;">
+        <div class="span_footer" style="margin-right:25px!important;">
 
-      <h2 class="footer_head">Contact Us</h2>
+            <h2 class="footer_head">Contact Us</h2>
 
-      <ul class="fr_cont">
+            <ul class="fr_cont">
 
-        <li>Ransom Mary Limited
-            Unit  G-19
-            Barking Enterprise Centre
-            50 Wakering Road
-            London IG11 8GN</li>
+                <li>Ransom Mary Limited
+                    Unit G-19
+                    Barking Enterprise Centre
+                    50 Wakering Road
+                    London IG11 8GN
+                </li>
 
-        <li class="phne-icon">Tel: +44 7863827951</li>
+                <li class="phne-icon">Tel: +44 7863827951</li>
 
-        <!--<li class="fax-icon">Fax: 02 6812045</li>-->
+                <!--<li class="fax-icon">Fax: 02 6812045</li>-->
 
-        <li class="mail-icon">Email: <a href="mailto:info@ransommary.co.uk">info@ransommary.co.uk</a></li>
+                <li class="mail-icon">Email: <a href="mailto:info@ransommary.co.uk">info@ransommary.co.uk</a></li>
 
-      </ul>
+            </ul>
+
+        </div>
+
+        <div class="span_footer" style="margin-right:26px!important;">
+
+            <h2 class="footer_head">Locate Us</h2>
+
+            <a href="locate.html"><img class="img-responsive" src="images/map.jpg" border="0" width="279" height="152 ">
+            </a></div>
+
+        <div class="span_footer" style="margin-right:0!important;">
+
+            <h2 class="footer_head">Quick Links</h2>
+
+
+            <ul class="fr_nav1">
+
+                <li><a href="index.html">Home</a></li>
+
+                <li><a href="about_us.html">About Us</a></li>
+
+                <li><a href="services.html">Our Products</a></li>
+
+                <li><a href="brands.html">Brands</a></li>
+
+                <li><a href="enquiry.html">Enquiry</a></li>
+
+                <li><a href="contactus.html">Contact</a></li>
+
+                <li><a href="locate.html">Locate Us</a></li>
+
+            </ul>
+
+
+        </div>
+
+        <br clear="all">
+
+        <br/>
+
+        <div class="row-fluid" style="width:938px;
+
+                        margin: 0 auto;  text-align:right; color:#fff; text-align:left;"> Copyright 2017 Ransom Mary
+            Limited
+        </div>
 
     </div>
-
-    <div class="span_footer" style="margin-right:26px!important;">
-
-      <h2 class="footer_head">Locate Us</h2>
-
-      <a href="locate.html"><img class="img-responsive"  src="images/map.jpg" border="0" width="279" height="152 "> </a> </div>
-
-    <div class="span_footer" style="margin-right:0!important;">
-
-      <h2 class="footer_head">Quick Links</h2>
-
-      
-
-      
-
-      <ul class="fr_nav1">
-
-        <li ><a href="index.html">Home</a></li>
-
-        <li><a href="about_us.html">About Us</a></li>
-
-        <li><a href="services.html">Our Products</a></li>
-
-        <li><a href="brands.html">Brands</a></li>
-
-        <li><a href="enquiry.html">Enquiry</a></li>
-
-        <li><a href="contactus.html">Contact</a></li>
-
-        <li><a href="locate.html">Locate Us</a></li>
-
-      </ul>
-
-      
-
-      
-
-    </div>
-
-    <br clear="all">
-
-    <br/>
-
-    <div class="row-fluid" style="width:938px;
-
-                        margin: 0 auto;  text-align:right; color:#fff; text-align:left;"> Copyright 2017 Ransom Mary Limited</div>
-
-  </div>
 
 </div>
 
@@ -706,59 +637,53 @@ return false
 
 <script src="js/jQuery.scrollSomething-1.0.0.js" type="text/javascript"></script>
 
-<link href="css/jQuery.scrollSomething-1.0.0.css" rel="stylesheet" type="text/css" />
+<link href="css/jQuery.scrollSomething-1.0.0.css" rel="stylesheet" type="text/css"/>
 
 <script type="text/javascript">
 
-        $(document).ready(function(){
+    $(document).ready(function () {
 
-            
 
-            
+        $("#myScrollebleItems2").scrollSomething({
 
-            $("#myScrollebleItems2").scrollSomething({
+            scrollerWidth: 903,
 
-                scrollerWidth: 903,
+            scrollerHeight: 255,
 
-                scrollerHeight: 255,
+            scrollInterval: 5000,
 
-                scrollInterval: 5000,
+            scrollPrefix: "example2_",
 
-                scrollPrefix: "example2_",
+            itemsVisable: 3,
 
-                itemsVisable: 3,
+            itemsScrolling: 1,
 
-                itemsScrolling: 1,
-
-                buttonPosition: "bottomRight"
-
-            });
-
-			  $("#myScrollebleItems3").scrollSomething({
-
-                scrollerWidth: 938,
-
-                scrollerHeight: 90,
-
-                scrollInterval: 5000,
-
-                scrollPrefix: "example1_",
-
-                itemsVisable: 6,
-
-                itemsScrolling: 1,
-
-                buttonPosition: "bottomRight"
-
-            });
-
-           
-
-		   
+            buttonPosition: "bottomRight"
 
         });
 
-    </script>
+        $("#myScrollebleItems3").scrollSomething({
+
+            scrollerWidth: 938,
+
+            scrollerHeight: 90,
+
+            scrollInterval: 5000,
+
+            scrollPrefix: "example1_",
+
+            itemsVisable: 6,
+
+            itemsScrolling: 1,
+
+            buttonPosition: "bottomRight"
+
+        });
+
+
+    });
+
+</script>
 
 </body>
 
