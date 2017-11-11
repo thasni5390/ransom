@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="370cc7e7-6495-4bde-99b2-2b157cf84eec" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about_us.html" afterPath="$PROJECT_DIR$/about_us.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/access-control-systems.html" afterPath="$PROJECT_DIR$/access-control-systems.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/brands.html" afterPath="$PROJECT_DIR$/brands.html" />
@@ -11,6 +10,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/email-hosting.html" afterPath="$PROJECT_DIR$/email-hosting.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/enquiry.html" afterPath="$PROJECT_DIR$/enquiry.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fiber-optic-cabling.html" afterPath="$PROJECT_DIR$/fiber-optic-cabling.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/installation-configuration.html" afterPath="$PROJECT_DIR$/installation-configuration.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/locate.html" afterPath="$PROJECT_DIR$/locate.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/low-current-cables.html" afterPath="$PROJECT_DIR$/low-current-cables.html" />
@@ -41,7 +41,7 @@
             <state relative-caret-position="357">
               <caret line="56" column="92" lean-forward="false" selection-start-line="43" selection-start-column="4" selection-end-line="56" selection-end-column="92" />
               <folding>
-                <marker date="1510338081000" expanded="true" signature="9211:14674" ph="..." />
+                <marker date="1510408791000" expanded="true" signature="9211:14674" ph="..." />
               </folding>
             </state>
           </provider>
@@ -85,8 +85,8 @@
       <file leaf-file-name="about_us.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/about_us.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2365">
-              <caret line="44" column="4" lean-forward="false" selection-start-line="44" selection-start-column="4" selection-end-line="44" selection-end-column="4" />
+            <state relative-caret-position="118">
+              <caret line="254" column="43" lean-forward="false" selection-start-line="254" selection-start-column="43" selection-end-line="254" selection-end-column="43" />
               <folding />
             </state>
           </provider>
@@ -153,8 +153,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>images/logo.png</find>
-      <find>&lt;a href=&quot;index.html&quot;&gt;&lt;img class=&quot;main-logo img-responsive&quot;  src=&quot;images/logo.png&quot; width=&quot;313&quot; height=&quot;76&quot;</find>
       <find>&lt;a href=&quot;index.html&quot;&gt;&lt;img class=&quot;main-logoimg-responsive&quot;  src=&quot;images/logo.png&quot; width=&quot;313&quot; height=&quot;76&quot;</find>
       <find>&lt;a href=&quot;index.html&quot;&gt;&lt;img class=&quot;main-logimg-responsive&quot;  src=&quot;images/logo.png&quot; width=&quot;313&quot; height=&quot;76&quot;</find>
       <find>&lt;a href=&quot;index.html&quot;&gt;&lt;img class=&quot;main-loimg-responsive&quot;  src=&quot;images/logo.png&quot; width=&quot;313&quot; height=&quot;76&quot;</find>
@@ -181,11 +179,12 @@
       <find>fav.i</find>
       <find>fav.icon</find>
       <find>fav.ico</find>
-      <find>&lt;link rel=&quot;shortcut icon&quot; type=&quot;image/x-icon&quot; href=&quot;images/fav.ico&quot;&gt;</find>
       <find>favic</find>
+      <find>&lt;link rel=&quot;shortcut icon&quot; type=&quot;image/x-icon&quot; href=&quot;images/fav.ico&quot;&gt;</find>
+      <find>7863827951</find>
+      <find>+44 7863827951</find>
     </findStrings>
     <replaceStrings>
-      <replace>Ransom</replace>
       <replace>Ransom Mary Limited</replace>
       <replace>+44 7863827951</replace>
       <replace>&lt;!--&lt;li class=&quot;fax-icon&quot;&gt;Fax: 02 6812045&lt;/li&gt;--&gt;</replace>
@@ -215,6 +214,7 @@
       <replace>&lt;a href=&quot;index.html&quot;&gt;&lt;img class=&quot;main-logo img-responsive&quot;  src=&quot;images/logo.png&quot; width=&quot;313&quot; height=&quot;95&quot;</replace>
       <replace>&lt;li&gt;&lt;a href=&quot;low-current-cables.html&quot;&gt;Low current and fire alarm cables&lt;/a&gt;&lt;/li&gt;</replace>
       <replace>&lt;link rel=&quot;apple-touch-icon&quot; sizes=&quot;57x57&quot; href=&quot;images/favicon/apple-icon-57x57.png&quot;&gt;    &lt;link rel=&quot;apple-touch-icon&quot; sizes=&quot;60x60&quot; href=&quot;images/favicon/apple-icon-60x60.png&quot;&gt;    &lt;link rel=&quot;apple-touch-icon&quot; sizes=&quot;72x72&quot; href=&quot;images/favicon/apple-icon-72x72.png&quot;&gt;    &lt;link rel=&quot;apple-touch-icon&quot; sizes=&quot;76x76&quot; href=&quot;images/favicon/apple-icon-76x76.png&quot;&gt;    &lt;link rel=&quot;apple-touch-icon&quot; sizes=&quot;114x114&quot; href=&quot;images/favicon/apple-icon-114x114.png&quot;&gt;    &lt;link rel=&quot;apple-touch-icon&quot; sizes=&quot;120x120&quot; href=&quot;images/favicon/apple-icon-120x120.png&quot;&gt;    &lt;link rel=&quot;apple-touch-icon&quot; sizes=&quot;144x144&quot; href=&quot;images/favicon/apple-icon-144x144.png&quot;&gt;    &lt;link rel=&quot;apple-touch-icon&quot; sizes=&quot;152x152&quot; href=&quot;images/favicon/apple-icon-152x152.png&quot;&gt;    &lt;link rel=&quot;apple-touch-icon&quot; sizes=&quot;180x180&quot; href=&quot;images/favicon/apple-icon-180x180.png&quot;&gt;    &lt;link rel=&quot;icon&quot; type=&quot;image/png&quot; sizes=&quot;192x192&quot; href=&quot;images/favicon/android-icon-192x192.png&quot;&gt;    &lt;link rel=&quot;icon&quot; type=&quot;image/png&quot; sizes=&quot;32x32&quot; href=&quot;images/favicon/favicon-32x32.png&quot;&gt;    &lt;link rel=&quot;icon&quot; type=&quot;image/png&quot; sizes=&quot;96x96&quot; href=&quot;images/favicon/favicon-96x96.png&quot;&gt;    &lt;link rel=&quot;icon&quot; type=&quot;image/png&quot; sizes=&quot;16x16&quot; href=&quot;images/favicon/favicon-16x16.png&quot;&gt;</replace>
+      <replace>+44(0)2039500032</replace>
     </replaceStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$</dir>
@@ -409,12 +409,12 @@
       <workItem from="1509340583731" duration="573000" />
       <workItem from="1509856247755" duration="1961000" />
       <workItem from="1510253482409" duration="10907000" />
-      <workItem from="1510408310988" duration="229000" />
+      <workItem from="1510408310988" duration="440000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17489000" />
+    <option name="totallyTimeSpent" value="17700000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="716" extended-state="6" />
@@ -773,15 +773,15 @@
         <state relative-caret-position="357">
           <caret line="56" column="92" lean-forward="false" selection-start-line="43" selection-start-column="4" selection-end-line="56" selection-end-column="92" />
           <folding>
-            <marker date="1510338081000" expanded="true" signature="9211:14674" ph="..." />
+            <marker date="1510408791000" expanded="true" signature="9211:14674" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/about_us.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2365">
-          <caret line="44" column="4" lean-forward="false" selection-start-line="44" selection-start-column="4" selection-end-line="44" selection-end-column="4" />
+        <state relative-caret-position="118">
+          <caret line="254" column="43" lean-forward="false" selection-start-line="254" selection-start-column="43" selection-end-line="254" selection-end-column="43" />
           <folding />
         </state>
       </provider>
